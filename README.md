@@ -1,6 +1,6 @@
 ## Hey 👋, This is Luke Patrick
 [![Gmail Badge](https://img.shields.io/badge/-lukewpatrick@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukewpatrick@gmail.com)](mailto:lukewpatrick@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/lukewilliam-patrick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/lukewilliam-patrick/)](https://www.linkedin.com/in/www.linkedin.com/in/lukewilliam-patrick/) [![Github Badge](https://img.shields.io/badge/-LoRezz1138-grey?style=flat&logo=github&logoColor=white&link=https://github.com/LoRezz1138/)](https://www.github.com/LoRezz1138/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/LoRezz1138/work-portfolio/)](https://github.com/LoRezz1138/work-portfolio/) <p align='left'>Hi there! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-lukewilliampatrick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukewilliampatrick/)](https://www.linkedin.com/in/lukewilliampatrick/) [![Github Badge](https://img.shields.io/badge/-LoRezz1138-grey?style=flat&logo=github&logoColor=white&link=https://github.com/LoRezz1138/)](https://www.github.com/LoRezz1138/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/LoRezz1138/work-portfolio/)](https://github.com/LoRezz1138/work-portfolio/) <p align='left'>Hi there! 👋
 
 I'm a Technology Solutions Specialist with a robust background in construction cost estimating, project management, business intelligence, and process optimization. I excel at delivering precise results and driving impactful operational improvements for large-scale projects. My expertise spans cost estimation, resource allocation, and leveraging technology to enhance efficiency.
 
@@ -20,7 +20,7 @@ My approach is rooted in balancing technical expertise with strategic foresight.
 
 Let's Connect! 🤝
 
-Feel free to reach out if you want to discuss technology, project management, or just share some interesting ideas. I'm always open to new opportunities and collaborations!</p>
+Feel free to reach out if you want to discuss technology, project management, or just share some interesting ideas. I'm always open to new opportunities and collaborations!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/10sXPW4M_i40lc1RRqQFFSDH3a6CyqeFJ/view ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=LoRezz1138 alt=LoRezz1138 /> </p>
 
