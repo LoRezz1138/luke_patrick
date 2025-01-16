@@ -1,4 +1,4 @@
-# luke_patrick
+#about  luke_patrick
 With a robust background in construction cost estimating, project management, and process optimization, and business intelligence, I excel at delivering precise results and driving impactful operational improvements for large-scale projects. My expertise spans cost estimation, resource allocation, and leveraging technology to enhance efficiency.
 
 At Chicago Bridge & Iron, I prepared estimates for projects ranging from $300M to $20B, contributing to major contract awards like the $550M Longford Gas Plant. My role as General Project Estimator involved introducing innovative estimation techniques and enhancing proposal quality, which drove cost efficiency and increased project win rates.
